@@ -14,11 +14,6 @@
 
 This mobile app, built on the foundation of the Bagisto eCommerce framework and leveraging the robust Laravel stack, offers many features for a comprehensive and efficient mobile shopping experience. The app ensures easy product information management and accelerates time-to-market for your products, all while giving you complete control over your store.
 
-# Live Demo
-
-Android: https://play.google.com/store/apps/details?id=com.webkul.bagisto.mobikul
-
-iOS: https://apps.apple.com/us/app/mobikul-bagisto-laravel-app/id6447519140
 # Features
 
 The open-source ecommerce mobile app comes with an array of features to improve your customers' shopping experience. 
@@ -200,14 +195,11 @@ Replace "GoogleService-Info.plist".
 * **Android:** Open the android folder in Android Studio and then right click app > new > Image Asset set Image.
 * **iOS:** Replace the icons over the path > ios/Runner/Assets.xcassets/AppIcon.appiconset
 
-## Installation Video
-
-[![Watch the video](https://i.ibb.co/c6qd31t/thumbnail-1.jpg)](https://www.youtube.com/watch?v=tvm2NUZP9ks)
 
 
 ## API Documentation
 
-For the API Documentation, please go through - https://github.com/bagisto/headless-ecommerce/
+For the API Documentation, please go through - https://github.com/silvered-shark/flutter-ecommerce-mobile-app
 
 ## Usage
 
